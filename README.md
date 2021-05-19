@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AldonahZero/AldonahZero/master/assets/fate.jpg)
+![FATE](https://raw.githubusercontent.com/AldonahZero/AldonahZero/master/assets/fate.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
